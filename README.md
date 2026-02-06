@@ -10,3 +10,6 @@ https://bom.firpo.ru/Public/5507
 
 er-диаграмма в erd.md
 
+таблицы с бд в table_bd.md
+
+Далее смотрите файл README_form.md
