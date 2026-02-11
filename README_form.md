@@ -41,3 +41,4 @@
 
 <img width="959" height="562" alt="Снимок экрана 2026-02-06 в 21 35 31" src="https://github.com/user-attachments/assets/b09b8fcb-215b-48aa-99f6-663a3452c8a0" />
 
+**ПРОДОЛЖЕНИЕ 4 МОДУЛЯ В ФАЙЛЕ 4_module.md**
