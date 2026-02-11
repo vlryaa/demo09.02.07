@@ -8,5 +8,10 @@
 
 Добавим на вторую формы кнопку Заказы:
 
+<img width="1552" height="917" alt="Снимок экрана 2026-02-11 в 10 33 47" src="https://github.com/user-attachments/assets/08599d3a-3b3c-467e-aa90-358f7e039d48" />
+
+Создадим 4 форму(добавьте элементы соответсвующие скриншоту), листинг кода будет в файле Form4.cs
+
+<img width="1552" height="917" alt="Снимок экрана 2026-02-11 в 10 46 13" src="https://github.com/user-attachments/assets/886ed173-c21c-4cc7-b2a4-2ef0ee82a52c" />
 
 
