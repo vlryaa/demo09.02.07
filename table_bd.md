@@ -9,3 +9,7 @@
 <img width="1423" height="522" alt="Снимок экрана 2026-02-06 в 21 49 18" src="https://github.com/user-attachments/assets/234f8bc3-b771-4e03-aece-116904f740a6" />
 <img width="1423" height="522" alt="Снимок экрана 2026-02-06 в 21 49 30" src="https://github.com/user-attachments/assets/d203ff79-d3bf-434f-98ad-e7c5d93954a5" />
 <img width="1423" height="522" alt="Снимок экрана 2026-02-06 в 21 49 40" src="https://github.com/user-attachments/assets/7bf81ea4-e9b0-4f15-afb4-052a0b1aac77" />
+
+Обратите внимание, чтобы идентификатор был проставлен, как ДА, в свойствах столбца
+
+
