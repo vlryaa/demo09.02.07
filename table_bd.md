@@ -1,7 +1,9 @@
 <img width="524" height="451" alt="Снимок экрана 2026-02-06 в 21 47 05" src="https://github.com/user-attachments/assets/f6771b15-7ea4-4dff-b111-7b940304a9aa" />
 <img width="992" height="469" alt="Снимок экрана 2026-02-06 в 21 47 27" src="https://github.com/user-attachments/assets/2b8e0e93-4d34-4c3c-bebd-966b94281340" />
 <img width="992" height="469" alt="Снимок экрана 2026-02-06 в 21 47 49" src="https://github.com/user-attachments/assets/9441b744-7dbc-4cd0-8644-5755dbc0ee94" />
-<img width="992" height="469" alt="Снимок экрана 2026-02-06 в 21 48 05" src="https://github.com/user-attachments/assets/16a15f47-f03b-480f-9553-3ad31f8eccd1" />
+<img width="548" height="840" alt="image" src="https://github.com/user-attachments/assets/a0951f0b-a118-4f3c-a7d1-aa5c42775dea" />
+<img width="436" height="758" alt="image" src="https://github.com/user-attachments/assets/4b34819f-05ec-4c7f-9df2-cb9d1a77fc9a" />
+<img width="288" height="112" alt="image" src="https://github.com/user-attachments/assets/7efbad86-657d-4ff3-944d-8b8680d2f3e6" />
 <img width="992" height="469" alt="Снимок экрана 2026-02-06 в 21 48 21" src="https://github.com/user-attachments/assets/c4e30027-47bb-4edd-9b91-24b3fd521f6e" />
 <img width="1423" height="522" alt="Снимок экрана 2026-02-06 в 21 48 40" src="https://github.com/user-attachments/assets/779bbc9c-84e6-49a3-a539-f723e28664db" />
 <img width="1423" height="522" alt="Снимок экрана 2026-02-06 в 21 48 50" src="https://github.com/user-attachments/assets/882fff11-91f2-4c46-afc7-5250013acc47" />
